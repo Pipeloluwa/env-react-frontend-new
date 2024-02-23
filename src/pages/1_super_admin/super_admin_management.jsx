@@ -258,7 +258,7 @@ export default function SuperAdminManagement() {
                                     <img src={profile_pic1} className="my-image-cover-style w-[100%] h-[100%]  flex"/>
                                 </div>
                                 
-                                <h1 className="lg:text-[12px] sm:text-[12px] text-[9px] font-bold text-center w-[62px] mx-auto truncate">David</h1>
+                                <h1 className="lg:text-[12px] sm:text-[12px] text-[9px] w-[400px] font-bold text-center mx-auto truncate">David</h1>
 
                                 <button className="my-button-style my-shadow-style lg:text-[9px] lg:py-2 sm:py-3 py-2 sm:text-[13px] text-[9px]">
                                     View
@@ -347,7 +347,7 @@ export default function SuperAdminManagement() {
 
                         </div>
 
-                        <button className="my-button-border-style my-shadow-style lg:text-base text-[14px]">
+                        <button className="my-button-border-style my-shadow-style lg:text-base text-[14px] h-[60px]">
                             View all models
                         </button>
                     </div>
@@ -383,17 +383,17 @@ export default function SuperAdminManagement() {
                                 </div>
 
                                 <div className="flex flex-col">
-                                    <h1 className="font-medium text-[20px] w-[220px] truncate">
+                                    <h1 className="font-medium sm:text-[20px] sm:w-[220px] truncate">
                                         Rose court factory
                                     </h1> 
 
-                                    <h1 className="text-[12px] italic w-[220px] truncate">
+                                    <h1 className="text-[12px] italic sm:w-[220px] truncate">
                                         21 Ruthy US
                                     </h1> 
                                 </div>
                             </div>
 
-                            <button className="sm:underline font-bold  sm:text-base sm:py-0 py-2 cursor-pointer flex sm:justify-start justify-center sm:items-start items-center text-[12px] sm:px-0 px-6 sm:text-black text-white sm:bg-transparent bg-black sm:mt-0 mt-6 sm:rounded-none rounded-3xl sm:border-none border sm:border-transparent border-white hover:bg-white hover:border hover:border-black hover:text-black hover:animate-pulse ">
+                            <button className="sm:underline font-bold sm:h-fit h-[60px] sm:text-base sm:py-0 py-2 cursor-pointer flex sm:justify-start justify-center sm:items-start items-center text-[12px] sm:px-0 px-6 sm:text-black text-white sm:bg-transparent bg-black sm:mt-0 mt-6 sm:rounded-none rounded-3xl sm:border-none border sm:border-transparent border-white hover:bg-white hover:border hover:border-black hover:text-black hover:animate-pulse ">
                                 View model
                             </button>
                         </div>
@@ -408,17 +408,17 @@ export default function SuperAdminManagement() {
                                 </div>
 
                                 <div className="flex flex-col">
-                                    <h1 className="font-medium text-[20px]  w-[220px] truncate">
+                                    <h1 className="font-medium sm:text-[20px]  sm:w-[220px] truncate">
                                         Marie Apartment
                                     </h1> 
 
-                                    <h1 className="text-[12px] italic w-[220px] truncate">
+                                    <h1 className="text-[12px] italic sm:w-[220px] truncate">
                                         21 Ruthy US
                                     </h1> 
                                 </div>
                             </div>
 
-                            <button className="sm:underline font-bold  sm:text-base sm:py-0 py-2 cursor-pointer flex sm:justify-start justify-center sm:items-start items-center text-[12px] sm:px-0 px-6 sm:text-black text-white sm:bg-transparent bg-black sm:mt-0 mt-6 sm:rounded-none rounded-3xl sm:border-none border sm:border-transparent border-white hover:bg-white hover:border hover:border-black hover:text-black hover:animate-pulse ">
+                            <button className="sm:underline font-bold sm:h-fit h-[60px] sm:text-base sm:py-0 py-2 cursor-pointer flex sm:justify-start justify-center sm:items-start items-center text-[12px] sm:px-0 px-6 sm:text-black text-white sm:bg-transparent bg-black sm:mt-0 mt-6 sm:rounded-none rounded-3xl sm:border-none border sm:border-transparent border-white hover:bg-white hover:border hover:border-black hover:text-black hover:animate-pulse ">
                                 View model
                             </button>
                         </div>
