@@ -16,7 +16,8 @@ import NOT_FOUND_404 from "./pages/404_NOT_FOUND";
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      {/* <BrowserRouter basename="/home"> */}
+      <BrowserRouter basename="/home">
         <Routes>
           <Route path="*" element= {<NOT_FOUND_404 />} />
 
